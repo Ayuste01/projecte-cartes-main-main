@@ -11,8 +11,8 @@ body {
 }
 @font-face {
   font-family: "pokemon";
-  src: url(/fonts/Pokemon\ Hollow.ttf);
-  src: url(/fonts/Pokemon\ Solid.ttf);
+  src: url(../fonts/Pokemon\ Hollow.ttf);
+  src: url(../fonts/Pokemon\ Solid.ttf);
 }
 /* ENCABEZADO --------------------------------------------------------- */
 .encabezado {
@@ -140,4 +140,6 @@ h2 {
 .texto{
   margin-top: 10px;
   font-size: 20px;
+  border: #b4a131 solid 5px;
+  background-image: url(../images/fonditoo.png);
 }
